@@ -1,0 +1,30 @@
+
+.inspirationHeader {
+  color: #003580;
+  font-weight: bold;
+}
+
+.inspirationItem {
+  border-radius: 10px;
+  overflow: hidden;
+  height: 250px;
+  width: auto;
+  padding:10px;
+  text-align: center;
+}
+.inspirationImg {
+  width: 360px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.inspirationTitle {
+  color: rgb(248, 245, 245);
+  margin-top: -100px;
+  text-align: center;
+}
+.inspirationTitle h6{
+  color: rgb(248, 245, 245);
+  font-weight: bold;
+
+}

@@ -1,0 +1,57 @@
+.registerBg {
+  background-color: #3866a7;
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+}
+.registerForm {
+  margin: 60px;
+  background-color: rgba(255, 228, 196, 0.76);
+  height: 70vh;
+  width: 70%;
+  border-radius: 20px;
+  margin-left: 13%;
+}
+.registerHeader {
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+}
+.registerInput {
+  text-align: center;
+}
+.registerInput > input {
+  width: 50%;
+  border: none;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+.registerInput > button {
+  text-align: center;
+  border: none;
+  background-color: #3866a7;
+  width: 50%;
+  margin-top: 10px;
+  height: 15%;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.registerInput > button:disabled {
+  background-color: #0071c28c;
+  cursor: not-allowed;
+}
+.registerError {
+  color: brown;
+  font-weight: bold;
+}
+
+.loginLink{
+  text-decoration: none;
+  color:rgb(2, 54, 54);
+  font-size: 20px;
+  font-weight: 600;
+}

@@ -1,0 +1,20 @@
+.card {
+  width: 350px;
+  height: 350px;
+  text-align: center;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  background-color: rgba(247, 247, 247, 0.788);
+}
+.featuesImg {
+  height: 220px;
+  padding: 10px;
+}
+.card-body{
+  text-align: left;
+}
+.card-title {
+  color: rgb(148, 3, 3);
+  font-weight: 600;
+}
